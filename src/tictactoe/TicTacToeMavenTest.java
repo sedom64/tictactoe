@@ -34,7 +34,7 @@ public class TicTacToeMavenTest extends Application {
         StackPane root = new StackPane();
         root.getChildren().add(btn);
         
-        Scene scene = new Scene(root, 300, 250);
+        Scene scene = new Scene(root, 350, 250);
         
         primaryStage.setTitle("Hello World!");
         primaryStage.setScene(scene);
