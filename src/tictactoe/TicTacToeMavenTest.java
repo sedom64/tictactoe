@@ -18,6 +18,7 @@ import javafx.stage.Stage;
  * @author Domenico
  */
 public class TicTacToeMavenTest extends Application {
+    int pippo;
     
     @Override
     public void start(Stage primaryStage) {
